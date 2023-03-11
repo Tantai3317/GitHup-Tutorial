@@ -3,7 +3,7 @@
 
     $open = "users";
     
-    $data =
+    $data = 1234
     [
         "name" => postInput('name'),
         "email" => postInput("email"),
